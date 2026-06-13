@@ -8,9 +8,9 @@ Ho lavorato in ambiante **windows** con macchina virtuale **WLS** per eseguire c
 Per eseguire i jupyter notebook ho utilizzato un environment **Anaconda**.
 
 ## Come eseguire i codici
-Per eseguire il codice su C++ basta utilizzare le istruzioni del makefile (di norma ./main.exe).
+Per eseguire il codice su C++ basta utilizzare le istruzioni del makefile (di norma ```./main.exe```).
 
-Una eccezione è il laboratorio 6 in cui ho utilizzato uno script in python (quindi bisogna assicurarsi di avere un environment su cui possa girare python attivo) che automatizza l'esecuzione del file in C++.
+Una eccezione è il **laboratorio 6** in cui ho utilizzato uno script in python (quindi bisogna assicurarsi di avere un environment attivo su cui possa girare python) che automatizza l'esecuzione del file in C++.
 
 Le linee di comando sono le seguenti:
 
